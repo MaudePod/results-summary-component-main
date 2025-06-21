@@ -26,7 +26,7 @@ body {
     height: 100svh;
     display: grid;
     container: body / inline-size;
-    font-family: 'Hanken Grotesk';
+    font-family: 'Hanken Grotesk',sans-serif;
     color: white;
     margin: 0;
 }
